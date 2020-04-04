@@ -1,7 +1,5 @@
 # Cybersecurity Influential Research Papers Reading List
-This page includes a collection of papers I recommend reading for those interested in studying Cybersecurity. 
-If you have any suggestions, please send a pull request.
-
+This page includes influential papers for those interested in Cybersecurity. If you have any suggestions, please send a pull request.
 by [Said Varlioglu](https://www.linkedin.com/in/said-varlioglu/)
 
 #### Cryptography
