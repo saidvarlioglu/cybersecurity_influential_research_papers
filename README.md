@@ -1,4 +1,4 @@
-# Cybersecurity Reading List
+# Cybersecurity Influential Research Papers Reading List
 This page includes a collection of papers I recommend reading for those interested in studying Cybersecurity. 
 If you have any suggestions, please send a pull request.
 
