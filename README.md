@@ -1,4 +1,4 @@
-# Cybersecurity Top Articles Reading List
+# Cybersecurity Reading List
 This page includes a collection of papers I recommend reading for those interested in studying Cybersecurity. 
 If you have any suggestions, please send a pull request.
 
