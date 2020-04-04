@@ -12,7 +12,7 @@ by [Said Varlioglu](https://www.linkedin.com/in/said-varlioglu/)
 
 - 2004, ACM, [Secure Program Execution via Dynamic Information Flow Tracking](http://csg.csail.mit.edu/pubs/memos/Memo-467/memo-467.pdf)
 
-- 2010, IEEE, [Dynamic Taint Analysis](https://users.ece.cmu.edu/~aavgerin/papers/Oakland10.pdf)
+- 2010, IEEE, [All You Ever Wanted to Know About Dynamic Taint Analysis and Forward Symbolic Execution (but might have been afraid to ask)](https://users.ece.cmu.edu/~aavgerin/papers/Oakland10.pdf)
 
 - 2020, IEEE, [Neutaint: Efficient Dynamic Taint Analysis with Neural Networks](https://arxiv.org/pdf/1907.03756.pdf)
 
@@ -39,8 +39,6 @@ by [Said Varlioglu](https://www.linkedin.com/in/said-varlioglu/)
 - 2018, IEEE, ICICT, [Is Cryptojacking Dead after Coinhive Shutdown?](https://arxiv.org/pdf/2001.02975.pdf)
 
 #### Threat Intelligence
-
-- 2018, IEEE, [New Cyber Threat Discovery from Darknet Marketplaces](https://www.researchgate.net/profile/Fangzhou_Dong2/publication/329799638_New_Cyber_Threat_Discovery_from_Darknet_Marketplaces/links/5c6fb7b0458515831f652d14/New-Cyber-Threat-Discovery-from-Darknet-Marketplaces.pdf)
 
 - 2018, IEEE, [New Cyber Threat Discovery from Darknet Marketplaces](https://www.researchgate.net/profile/Fangzhou_Dong2/publication/329799638_New_Cyber_Threat_Discovery_from_Darknet_Marketplaces/links/5c6fb7b0458515831f652d14/New-Cyber-Threat-Discovery-from-Darknet-Marketplaces.pdf)
 
