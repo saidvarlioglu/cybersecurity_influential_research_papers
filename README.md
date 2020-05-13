@@ -34,7 +34,7 @@ by [Said Varlioglu](https://www.linkedin.com/in/said-varlioglu/)
 
 - 2018, ACM, [How you get shot in the back: A systematical study about cryptojacking in the real world](https://dl.acm.org/doi/pdf/10.1145/3243734.3243840)
 
-- 2018, IEEE, ICICT, [Is Cryptojacking Dead after Coinhive Shutdown?](https://arxiv.org/pdf/2001.02975.pdf)
+- 2020, IEEE, ICICT, [Is Cryptojacking Dead after Coinhive Shutdown?](https://arxiv.org/pdf/2001.02975.pdf)
 
 #### Threat Intelligence
 
